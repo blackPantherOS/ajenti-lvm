@@ -1,0 +1,7 @@
+<box>
+    <hc>
+        <label id="volume"/>
+        <label id="progress"/>
+        <label id="status"/>
+    </hc>
+</box>

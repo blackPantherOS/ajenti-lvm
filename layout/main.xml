@@ -1,0 +1,10 @@
+<box xmlns:mdadm="mdadm">>
+    <mdadm:header id="header">
+        <right>
+            <hc>
+                <button icon="refresh" id="onupdate" text="Update" />
+            </hc>
+        </right>
+    </mdadm:header>
+	<label text="LVM"/>
+</box>
